@@ -1,6 +1,6 @@
 ---
 title: Accueil
-banner_image: "/img/banner.png"
+banner_image: "/DevBox-uploads/2018/06/01/2017-06-10_19-49-24_PrintEtWeb_.jpg"
 layout: landing-page
 heading: DevBox group
 partners:
